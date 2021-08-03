@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 129A-A042
+
+ Directory of C:\Users\naqvi\Desktop\MyProject
+
+08/03/2021  10:56 AM    <DIR>          .
+08/03/2021  10:56 AM    <DIR>          ..
+08/03/2021  10:56 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  431,303,757,824 bytes free
